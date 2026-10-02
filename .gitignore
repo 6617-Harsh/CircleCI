@@ -1,0 +1,10 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Build files
+bin/
+obj/
+
+# SQL Server database files
+*.ldf
